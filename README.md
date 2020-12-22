@@ -9,3 +9,14 @@ Note that the system will restart after writing to this file since the new confi
 
 The code displays a GUI using Tkinter and the user will input the desired configurations.
 After the user press save it will ask “are you sure” , if the user press yes then the new network configurations will be written in a txt file and the system will restart with the new network configurations.
+
+
+to download netifaces library please refer to this :
+
+https://zoomadmin.com/HowToInstall/UbuntuPackage/python3-netifaces
+
+the subproccess :
+
+https://pypi.org/project/subprocess.run/
+
+
